@@ -22,7 +22,7 @@
 
 ## Contributing
 *(프로젝트 기여자가 있을 경우 적습니다)*
-- Thanks to @기여자이름
+- Thanks to kuma
 
 ## Reference
 *(참고 리소스,  code snippet, 라이센스 정보를 표기합니다)*
